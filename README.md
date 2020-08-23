@@ -11,6 +11,8 @@ Hack unsecured web cams over in the internet
 
 -pkg install python3
 
+-git clone https://github.com/booztay/CamHack
+
 # Usage
 
 -python3 camhack.py
